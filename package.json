@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "learning nodeJS, ExpressJS, MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Soumya Sankar Das",
+  "license": "ISC"
+}
